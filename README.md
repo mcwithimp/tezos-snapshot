@@ -16,5 +16,5 @@
 ### 2. Run the following command (**CARTHAGENET ONLY**)
 
 ```
-curl "https://raw.githubusercontent.com/mcwithimp/tezos-snapshot/master/tz_install.sh" | bash
+curl "https://raw.githubusercontent.com/mcwithimp/tezos-snapshot/master/quicksync.sh" | bash
 ```

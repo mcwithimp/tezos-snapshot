@@ -4,7 +4,7 @@ echo ================================
 echo Downloading a snapshot file
 echo ================================
 
-wget -c -O ${TARGET}.tar.gz https://gitlab.com/tezoskorea/tezos-snapshot/raw/master/${TARGET}.tar.gz
+wget -c -O ${TARGET}.tar.gz https://raw.githubusercontent.com/mcwithimp/tezos-snapshot/master/${TARGET}.tar.gz
 
 rm -rf ~/tezos-carthagenet/context
 rm -rf ~/tezos-carthagenet/store
